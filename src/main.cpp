@@ -1,7 +1,5 @@
 #include <iostream>
 
-using namespace std;
-
 int array[10];
 array[10] = 0; // Noncompliant: index should be between 0 & 9
 
